@@ -2,7 +2,7 @@
 
 Live Website Link: [Shopsiy Store](https://shopsiy-store.netlify.app/)
 
-### 1. **Installation**
+### **Installation**
 
 Type npm install to install all the dependencies and then type npm start to start the project.
 
