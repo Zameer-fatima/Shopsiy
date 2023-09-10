@@ -1,4 +1,4 @@
-# Shopsiy
+# Shopsiy - T Shirts Ecommerce WebApp
 
 Live Website Link: [Shopsiy Store](https://shopsiy-store.netlify.app/)
 
