@@ -2,15 +2,15 @@
 
 Live Website Link: [Shopsiy Store](https://shopsiy-store.netlify.app/)
 
-Type npm install to install the dependencies and then type npm start to start the project
+### 1. **Installation**
 
-Certainly! Here's a basic documentation for the e-commerce application for T-shirts:
+Type npm install to install all the dependencies and then type npm start to start the project.
 
 ---
 
 ## Overview
 
-The T-Shirt E-Commerce Application is a web-based platform designed to simplify the process of buying T-shirts online. By offering a wide range of products, efficient search and filtering options, and a user-friendly interface, the application addresses common challenges associated with online clothing shopping. Users can easily find, explore, and purchase their favorite T-shirts hassle-free.
+The Shopsiy E-Commerce Application is a web-based platform designed to simplify the process of buying T-shirts online. By offering a wide range of products, efficient search and filtering options, and a user-friendly interface, the application addresses common challenges associated with online clothing shopping. Users can easily find, explore, and purchase their favorite T-shirts hassle-free.
 
 This application combines functionality with an attractive UI to create a seamless and visually appealing shopping platform for T-shirt enthusiasts.
 
